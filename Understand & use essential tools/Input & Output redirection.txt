@@ -1,2 +1,0 @@
-ls /var > var.txt
-Contents inside var directory is inside this file now. 
