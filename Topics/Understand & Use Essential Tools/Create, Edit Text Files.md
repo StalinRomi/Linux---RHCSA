@@ -1,0 +1,9 @@
+For creating & editing a file ->
+
+**vi** file name
+**nano** file name
+**cat >** file name
+
+For Creating multiple empty files at once ->
+
+**touch** file1 file2 file3 file4
