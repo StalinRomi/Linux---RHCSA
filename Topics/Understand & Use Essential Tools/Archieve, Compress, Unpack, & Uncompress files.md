@@ -4,3 +4,15 @@ For Archieving ( Creating a collection of files ) ->
 
 c - Create Archieve
 f - Use specified Archieved file
+
+For Compressing a File -
+
+**gzip** file name
+
+**zip** file name
+
+**xz** file name
+
+For Uncompressing a File -
+
+**gunzip** file name
